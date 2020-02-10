@@ -16,3 +16,6 @@ the testing will be done in the later stage of the life
 ## COPYRIGHT
 
 the copyright the following html file
+
+## Finally
+Merging something in the master file directly, what we needf to do
