@@ -12,3 +12,7 @@ will be told later in the stage file
 
 ## testing
 the testing will be done in the later stage of the life
+
+## COPYRIGHT
+
+the copyright the following html file
