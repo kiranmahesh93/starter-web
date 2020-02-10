@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## deployment	
 
 will be told later in the stage file
+
+## testing
+the testing will be done in the later stage of the life
