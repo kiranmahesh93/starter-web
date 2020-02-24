@@ -19,3 +19,7 @@ the copyright the following html file
 
 ## Finally
 Merging something in the master file directly, what we needf to do, for the commit in the stash command & for checking the stash lists in the branch 
+
+
+## example
+this is for the git stash example
