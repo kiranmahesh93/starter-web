@@ -22,4 +22,4 @@ Merging something in the master file directly, what we needf to do, for the comm
 
 
 ## example
-this is for the git stash example
+this is for the git stash example2
