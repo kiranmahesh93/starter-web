@@ -18,4 +18,4 @@ the testing will be done in the later stage of the life
 the copyright the following html file
 
 ## Finally
-Merging something in the master file directly, what we needf to do, for the commit in the stash command 
+Merging something in the master file directly, what we needf to do, for the commit in the stash command & for checking the stash lists in the branch 
